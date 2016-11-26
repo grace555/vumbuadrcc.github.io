@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Vumbua DRC</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	<body>
+		<h1>Vumbua DRC</h1>
+		<nav>
+    		<ul class="nav">
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/about">About</a></li>
+        		<li><a href="/cv">Contact</a></li>
+        		<li><a href="/blog">Main Attraction Sites</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<!--<h1>Vumbua DRC</h1>-->
+				<p> Vumbua DRC is an initiative by a group of five young and brave young congolese who passionately 
+				  love their country and aim at making others discover and love it too.
+			 <!-- <a href="/about">Read more about my life...</a></p>-->
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li><a href="mailto:vumbuadrc@yahoo.fr">email</a></li>
+        		<!--<li><a href="https://github.com/grace555">github.com/grace555</a></li>-->
+			</ul>
+		</footer>
+	</body>
+</html>
